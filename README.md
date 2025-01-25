@@ -22,4 +22,4 @@ This is a basic calculator that performs arithmetic operations such as addition,
 ## How to Run the Project
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/calculator.git
+   https://github.com/Saurabh-1435/Calculater.git
